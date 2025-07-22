@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alejandro and I'm a frontend developer, from Barcelona, Spain.</h2>
+<h2 align="left">Hola 👋! Mi nombre es Alejandro y soy programador frontend, de Barcelona</h2>
 
 Soy Licenciado en Ingeniería mecánica y desarrollo Web 🎓
 
@@ -14,8 +14,9 @@ Soy Licenciado en Ingeniería mecánica y desarrollo Web 🎓
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexMafaluno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
+💻 Tecnologías y Herramientas
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -45,6 +46,12 @@ Soy Licenciado en Ingeniería mecánica y desarrollo Web 🎓
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
 </div>
 
 ###
@@ -68,7 +75,7 @@ Soy Licenciado en Ingeniería mecánica y desarrollo Web 🎓
 ###
 
 
-💻 Tecnologías y Herramientas
+
 - Lenguajes: HTML5, CSS3, JavaScript, TypeScript, SASS
 - Frameworks: Angular, Bootstrap
 - Herramientas: Node.js, Git, Postman, VCode
